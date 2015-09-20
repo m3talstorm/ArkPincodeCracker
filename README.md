@@ -1,4 +1,4 @@
-# [ARK Lock Bot](https://github.com/m3talstorm/HumanBenchmarkBot/)
+# [ARK Lock Bot](https://github.com/m3talstorm/ArkLockBot)
 
 A bot written in AutoHotKey to brute force the pin code locks in [ARK: Survival Evolved](http://www.playark.com/).
 
