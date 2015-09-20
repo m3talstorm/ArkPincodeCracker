@@ -13,6 +13,7 @@ This allows multiple players to start from different codes to speed up the proce
 * It will then ask if you would like to try the 20 or so most common pin codes to hopefully speed up the process
 * Once the code is found and the item unlocks you will either need to remember the number shown in the tooltip, press escape to stop the script and then look inside the `attempts.log` file to see the
 last code that was tried, or keep the inventory window open as long as you can/drop all items.
+* The bot can be paused and resumed with `Controls + Shift + P` and stopped by pressing `Escape`
 
 
 ## Additional information:
