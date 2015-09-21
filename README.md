@@ -1,10 +1,10 @@
-# [ARK Lock Bot](https://github.com/m3talstorm/ArkLockBot)
+# [ArkPincodeCrackert](https://github.com/m3talstorm/ArkPincodeCracker)
 
 A bot written in AutoHotKey to brute force the pin code locks in [ARK: Survival Evolved](http://www.playark.com/).
 
 ## How To:
 
-* [Download the latest release](https://github.com/m3talstorm/ArkLockBot/archive/master.zip) or clone the repo: `https://github.com/m3talstorm/ArkLockBot.git`.
+* [Download the latest release](https://github.com/m3talstorm/ArkPincodeCracker/archive/master.zip) or clone the repo: `https://github.com/m3talstorm/ArkPincodeCracker.git`.
 * Download and install [AutoHotKey](http://ahkscript.org/download/ahk-install.exe)
 * Run the `ARKLockBot.ahk` file (Windows: right click - run as administrator)
 * Once inside ARK and facing a locked door/chest/vault press `Control + Shift + Left mouse click` to activate the bot, it will then ask you what code to start from and how many codes (incrementing) to try.
