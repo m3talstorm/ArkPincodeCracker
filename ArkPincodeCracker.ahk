@@ -25,7 +25,7 @@ SendMode Input
 ; Ensures a consistent starting directory.
 SetWorkingDir %A_ScriptDir%
 ; Speed up script execution...hopefully: http://ahkscript.org/docs/commands/SetBatchLines.htm
-SetBatchLines -1
+SetBatchLines, 500ms
 
 ; Outputs a value to a log file
 Log(value)
